@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 """Create and print out reports based on the data in database.
 
     Functions:
